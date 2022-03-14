@@ -1,1 +1,3 @@
 Hi my name is Felix and this is a test push to demonstrate git commands
+
+Hi my name is Dominic and this a test push
